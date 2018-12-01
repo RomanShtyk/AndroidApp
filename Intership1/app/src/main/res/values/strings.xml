@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="facebook_app_id">2054277547993040</string>
+    <string name="fb_login_protocol_scheme">fb2054277547993040</string>
+    <string name="login_header">Neu Hier?</string>
+    <string name="login_subheader">Ich nutze die App zum ersten Mal</string>
+    <string name="logit_register_button">Jetzt registrieren</string>
+    <string name="login_form_header">Oder</string>
+    <string name="logout_button">Logout</string>
+    <string name="login_form_subheader">Bereits registriert</string>
+    <string name="login_form_email">E-Mail</string>
+    <string name="login_form_password">Password</string>
+    <string name="login_form_login">Login</string>
+    <string name="login_forgot_password">Password vergessen?</string>
+    <string name="login_image_content_description">Logo</string>
+    <string name="club_card">Club card</string>
+    <string name="name_label">Name</string>
+    <string name="surname_label">Nachname</string>
+    <string name="club_id_label">Club ID</string>
+</resources>
