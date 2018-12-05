@@ -1,21 +1,17 @@
 package com.example.rdsh.intership1;
 
-import java.util.ArrayList;
-import java.util.List;
-
-//class for hardcoded list of users
 public class User {
     private String password;
     private String email;
     private String first_name;
-    private String Last_name;
+    private String last_name;
     private String id;
 
     public User(String email, String password, String first_name, String last_name, String id) {
         this.password = password;
         this.email = email;
         this.first_name = first_name;
-        Last_name = last_name;
+        this.last_name = last_name;
         this.id = id;
     }
 
@@ -44,11 +40,11 @@ public class User {
     }
 
     public String getLast_name() {
-        return Last_name;
+        return last_name;
     }
 
     public void setLast_name(String last_name) {
-        Last_name = last_name;
+        this.last_name = last_name;
     }
 
     public String getId() {
@@ -58,7 +54,6 @@ public class User {
     public void setId(String id) {
         this.id = id;
     }
-
 
 
 }
